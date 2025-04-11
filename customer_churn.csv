@@ -1,0 +1,1001 @@
+CustomerID,Age,Subscription_Length_Months,Watch_Time_Hours,Number_of_Logins,Preferred_Content_Type,Membership_Type,Payment_Method,Payment_Issues,Number_of_Complaints,Resolution_Time_Days,Churn
+1,56,35,62.57926639796047,73,TV Shows,Basic,PayPal,0,7,8,0
+2,69,15,159.71441533882827,1,Sports,Basic,Credit Card,0,7,21,0
+3,46,25,41.11954707674489,36,Movies,Premium,PayPal,0,5,13,1
+4,32,28,183.96173538841856,35,Movies,Standard,Credit Card,0,0,27,0
+5,60,10,87.78284791329057,66,Movies,Standard,Bank Transfer,0,7,18,0
+6,25,17,21.972597704593436,63,Sports,Standard,Credit Card,1,7,5,0
+7,38,22,164.07098548333477,23,TV Shows,Standard,PayPal,0,1,6,0
+8,56,26,77.83438819248558,9,Documentaries,Basic,Credit Card,0,3,17,0
+9,36,25,107.66734285998729,34,Documentaries,Basic,Bank Transfer,1,1,11,0
+10,40,17,26.899347160187737,46,Movies,Premium,PayPal,0,3,20,0
+11,28,13,5.503882894771565,78,Movies,Standard,Bank Transfer,1,9,16,0
+12,28,20,129.40711512969304,4,Sports,Basic,Bank Transfer,0,6,9,0
+13,41,25,105.45915821507766,30,TV Shows,Basic,PayPal,0,8,2,0
+14,53,4,120.74002097901369,95,Documentaries,Premium,Bank Transfer,0,7,5,0
+15,57,10,159.78005082420069,75,Sports,Premium,Bank Transfer,0,8,1,0
+16,41,3,131.08815311745772,99,Documentaries,Premium,Credit Card,0,7,4,0
+17,20,18,39.08082135133855,72,Movies,Basic,Bank Transfer,0,1,4,0
+18,39,22,75.35064122656696,3,Documentaries,Basic,Bank Transfer,0,6,22,1
+19,19,34,181.64876543361328,14,TV Shows,Premium,Bank Transfer,0,1,26,1
+20,41,8,155.1392165490774,60,TV Shows,Standard,Bank Transfer,0,1,25,0
+21,61,19,113.54422629765986,77,Movies,Premium,PayPal,0,3,3,0
+22,47,6,54.8507745728081,45,TV Shows,Premium,Credit Card,0,0,9,0
+23,55,26,63.901797857785034,96,TV Shows,Premium,Bank Transfer,0,4,22,1
+24,19,34,147.73182317919873,34,Sports,Premium,Bank Transfer,1,5,23,0
+25,38,6,170.9789808662903,45,Documentaries,Basic,PayPal,0,8,12,0
+26,50,33,135.92781055846982,61,Movies,Standard,Bank Transfer,1,9,10,0
+27,29,22,162.85834527484616,83,Movies,Premium,PayPal,0,7,2,0
+28,39,21,154.49794636407916,16,Movies,Standard,Credit Card,0,1,11,0
+29,61,6,34.192273751606756,66,Movies,Standard,Credit Card,0,0,10,0
+30,42,6,87.66923851809389,40,Movies,Standard,Bank Transfer,0,1,22,0
+31,66,4,34.83184116156972,17,TV Shows,Premium,Bank Transfer,0,6,6,0
+32,44,30,50.870939036387036,34,Sports,Basic,Bank Transfer,0,3,18,1
+33,59,11,174.50562680695523,16,Movies,Premium,PayPal,0,9,2,0
+34,45,30,97.21393329847052,60,Sports,Standard,Bank Transfer,0,4,2,0
+35,33,31,109.39482985931886,66,Sports,Standard,Bank Transfer,0,6,10,0
+36,32,24,39.79696321941557,66,TV Shows,Basic,Credit Card,0,2,16,0
+37,64,9,65.89299827951523,90,Movies,Premium,Bank Transfer,0,9,12,0
+38,68,3,49.89800284343464,13,TV Shows,Standard,Credit Card,0,1,1,0
+39,61,31,45.20630208109315,56,Movies,Basic,Bank Transfer,0,6,21,0
+40,69,24,129.40235469661417,31,TV Shows,Standard,Credit Card,0,4,8,0
+41,20,31,55.09235029091439,34,Sports,Basic,Bank Transfer,0,0,16,0
+42,54,6,128.2430197739816,39,Movies,Basic,Credit Card,0,0,18,0
+43,68,2,16.398649751168012,67,Documentaries,Premium,PayPal,0,8,13,0
+44,24,20,32.64600673778486,8,Sports,Standard,Credit Card,0,4,15,0
+45,38,28,58.53534953002445,87,Documentaries,Premium,Credit Card,0,0,21,0
+46,26,11,121.42414879465987,78,Sports,Standard,Credit Card,0,6,12,0
+47,56,4,136.78904279203832,55,TV Shows,Premium,Bank Transfer,1,8,8,0
+48,35,15,91.32980852200778,27,Movies,Standard,Bank Transfer,1,0,10,0
+49,21,6,91.92922834255965,93,Sports,Premium,Bank Transfer,0,9,14,0
+50,42,30,146.28078602273052,53,TV Shows,Basic,PayPal,0,3,5,0
+51,31,2,8.085112894288576,39,Movies,Standard,PayPal,0,2,18,0
+52,67,15,71.51255477247301,65,Movies,Standard,Credit Card,0,4,19,1
+53,26,11,164.64787613825038,17,Sports,Basic,PayPal,0,6,15,0
+54,43,8,122.62778499160758,30,Movies,Premium,Credit Card,0,7,6,0
+55,19,26,70.75929088730697,53,Sports,Standard,Credit Card,1,1,27,0
+56,37,5,181.5773345042864,13,Movies,Standard,Credit Card,0,6,11,0
+57,45,6,155.6614318526296,21,Documentaries,Premium,PayPal,0,0,21,0
+58,64,26,56.65461221116302,19,TV Shows,Basic,Bank Transfer,0,6,11,0
+59,24,4,130.8315183175148,53,Documentaries,Premium,PayPal,0,7,20,0
+60,61,19,121.17139199684655,19,Sports,Premium,Credit Card,0,1,20,0
+61,25,20,83.23164323760162,57,Documentaries,Premium,Credit Card,1,8,21,0
+62,64,33,76.55643544493613,25,Sports,Standard,PayPal,0,0,18,0
+63,52,20,71.99429258126227,86,Movies,Basic,Credit Card,0,5,25,0
+64,31,12,125.34537776215113,31,Movies,Basic,Credit Card,0,0,18,0
+65,34,1,91.26993761373055,81,Sports,Premium,PayPal,0,2,10,1
+66,53,26,167.2133070840273,55,Documentaries,Standard,PayPal,0,5,2,0
+67,67,14,135.57251014612257,23,Movies,Premium,PayPal,0,2,26,0
+68,57,11,18.636663113339655,32,TV Shows,Standard,Credit Card,0,7,9,0
+69,21,13,129.83280364649238,62,Movies,Standard,Credit Card,0,4,14,0
+70,19,3,57.873750117536034,74,TV Shows,Standard,Bank Transfer,0,1,19,1
+71,23,33,120.59833837241743,10,Documentaries,Standard,Bank Transfer,0,3,10,1
+72,59,6,137.625726565173,72,TV Shows,Basic,PayPal,0,8,23,0
+73,21,10,50.011691885032356,54,TV Shows,Standard,Bank Transfer,0,3,4,1
+74,46,5,94.08743575167189,52,TV Shows,Standard,Credit Card,0,9,29,0
+75,35,23,42.11334824971822,20,TV Shows,Premium,Bank Transfer,0,9,29,0
+76,43,10,15.20608077836912,32,Movies,Premium,Credit Card,0,7,6,1
+77,61,2,78.80290257974447,14,TV Shows,Basic,PayPal,0,4,14,1
+78,51,13,75.77413300996844,50,Movies,Premium,PayPal,0,9,4,0
+79,27,2,199.11869568733013,28,TV Shows,Standard,Credit Card,0,0,26,1
+80,53,20,92.03870848354022,53,Sports,Premium,Bank Transfer,0,6,15,1
+81,31,1,70.04606214707908,24,Documentaries,Basic,PayPal,0,2,16,1
+82,48,9,118.19262630975155,79,TV Shows,Premium,PayPal,0,9,7,1
+83,65,17,22.30964185101485,22,Sports,Premium,Bank Transfer,0,7,17,1
+84,32,9,192.52481851118858,30,TV Shows,Basic,Bank Transfer,0,2,19,0
+85,25,11,128.81720889025146,63,TV Shows,Basic,Credit Card,0,0,29,1
+86,31,15,152.1933748884653,4,TV Shows,Standard,Bank Transfer,0,4,19,0
+87,40,24,38.24319794391392,77,Sports,Premium,Bank Transfer,0,1,17,1
+88,57,35,84.84818133601476,59,Documentaries,Standard,Bank Transfer,0,3,6,0
+89,38,30,87.42437711225696,87,Sports,Premium,Credit Card,0,0,29,0
+90,33,31,165.25225656071194,8,Documentaries,Premium,Credit Card,0,8,11,0
+91,62,5,5.2411525530848415,82,TV Shows,Standard,PayPal,0,5,16,0
+92,35,14,63.666356128884736,12,Movies,Premium,Credit Card,0,7,25,0
+93,64,11,196.34109299713927,31,TV Shows,Premium,PayPal,0,3,8,1
+94,41,9,97.60287598371264,78,Documentaries,Premium,Bank Transfer,0,8,11,1
+95,43,34,79.59262464758162,34,Sports,Basic,PayPal,0,1,7,0
+96,42,12,28.366655393441036,82,TV Shows,Standard,PayPal,1,8,26,1
+97,62,35,194.96210258246305,98,Sports,Basic,Bank Transfer,1,4,24,1
+98,58,35,8.90513940553577,75,Sports,Standard,PayPal,1,5,22,0
+99,46,1,148.7501438764124,76,Sports,Standard,Credit Card,0,2,25,0
+100,32,22,154.87696193375913,49,TV Shows,Premium,Credit Card,0,3,19,1
+101,62,29,52.513059632453995,79,Sports,Standard,Credit Card,0,5,26,0
+102,18,8,135.95389650454229,57,Sports,Basic,Credit Card,0,6,10,1
+103,42,11,23.121183153981036,95,TV Shows,Basic,PayPal,0,0,9,1
+104,24,14,55.12421695425557,93,Sports,Basic,PayPal,0,6,4,1
+105,26,30,158.64088771699167,26,TV Shows,Standard,Bank Transfer,0,0,23,0
+106,41,35,173.61380744654033,18,Documentaries,Basic,PayPal,0,4,15,0
+107,18,21,123.6548504686593,96,Documentaries,Standard,PayPal,0,5,13,0
+108,61,5,103.83349420499411,86,Documentaries,Basic,PayPal,1,1,25,0
+109,25,19,36.06428402070116,38,Sports,Basic,Bank Transfer,0,9,2,0
+110,41,14,17.306261450434285,81,Movies,Standard,Credit Card,0,8,2,0
+111,28,26,27.941560552343933,87,Movies,Basic,PayPal,1,9,16,0
+112,68,4,49.334673518739265,88,Sports,Premium,Bank Transfer,0,5,9,1
+113,34,25,71.62652786989956,50,Movies,Standard,Bank Transfer,0,6,28,0
+114,25,25,79.27735747464251,8,TV Shows,Standard,Bank Transfer,0,9,13,0
+115,52,18,72.5327448748557,41,Movies,Standard,Credit Card,0,7,3,0
+116,52,8,51.61578977846679,6,Sports,Premium,PayPal,1,9,9,0
+117,50,14,104.39622811658114,69,Sports,Standard,Bank Transfer,0,0,13,0
+118,22,32,165.93079110541487,44,TV Shows,Basic,Credit Card,0,7,21,0
+119,59,33,59.54219000193845,64,Documentaries,Basic,Bank Transfer,0,3,22,0
+120,56,23,188.76546872493546,29,Sports,Basic,Bank Transfer,0,9,2,0
+121,58,15,175.30064903615033,28,TV Shows,Standard,Bank Transfer,1,7,8,0
+122,45,33,36.544021213661374,11,Movies,Basic,Bank Transfer,0,5,27,1
+123,24,25,158.3238115676334,65,Movies,Standard,Bank Transfer,0,8,9,1
+124,26,17,117.04453955196449,19,TV Shows,Basic,Credit Card,0,3,16,1
+125,25,33,115.48219562342662,9,TV Shows,Premium,PayPal,0,1,2,1
+126,29,2,81.25333879634401,27,Sports,Premium,PayPal,1,1,6,1
+127,51,14,102.7248348404919,34,Movies,Premium,PayPal,0,4,22,1
+128,50,6,82.44986159869615,44,TV Shows,Premium,PayPal,0,9,8,0
+129,65,6,110.24786065818886,68,Movies,Standard,Credit Card,0,8,26,0
+130,40,3,127.45026029066399,82,TV Shows,Basic,Credit Card,0,2,28,0
+131,41,7,136.48924224976443,15,Movies,Premium,Credit Card,0,7,5,0
+132,54,8,108.8338325490881,51,Documentaries,Standard,Bank Transfer,1,3,9,0
+133,52,15,145.67730312910268,13,Sports,Premium,Bank Transfer,0,5,1,0
+134,61,29,32.54921960872363,83,Movies,Premium,Bank Transfer,1,9,9,1
+135,57,33,46.336585725936516,49,Documentaries,Standard,PayPal,0,5,10,1
+136,39,30,164.65332579448267,70,Movies,Standard,Bank Transfer,0,2,23,0
+137,44,27,67.89295568005096,56,Movies,Basic,PayPal,0,4,4,0
+138,52,29,9.464295870343449,76,Documentaries,Basic,Bank Transfer,0,2,3,1
+139,18,33,34.98927418526606,51,Movies,Premium,PayPal,1,0,10,0
+140,52,27,48.604814726780695,37,Movies,Premium,Bank Transfer,0,6,15,1
+141,54,33,191.6779631394445,17,Sports,Basic,Bank Transfer,0,3,11,0
+142,64,4,116.74307864151561,58,Documentaries,Basic,Credit Card,0,6,14,0
+143,31,22,186.8824943928697,87,Documentaries,Standard,Bank Transfer,0,2,6,0
+144,20,2,117.15685334684186,90,TV Shows,Basic,Bank Transfer,0,4,12,1
+145,18,10,98.4741158268811,29,Movies,Basic,Credit Card,0,4,13,0
+146,22,5,66.17689978284872,33,Sports,Premium,PayPal,0,1,17,0
+147,43,10,123.24233416450824,60,Movies,Basic,Credit Card,0,9,16,0
+148,31,33,32.14361480041832,91,Movies,Premium,Credit Card,0,1,3,0
+149,56,13,180.16101732207767,89,TV Shows,Basic,PayPal,0,3,2,1
+150,44,31,166.7198190025503,55,Movies,Standard,Bank Transfer,0,3,11,1
+151,26,24,66.91863233596372,10,Sports,Basic,PayPal,0,3,29,0
+152,32,15,190.7955178822524,47,Sports,Basic,Bank Transfer,1,5,9,0
+153,32,29,165.91414964603578,23,TV Shows,Basic,Bank Transfer,0,1,3,0
+154,43,8,134.92984273783276,85,Movies,Premium,PayPal,0,5,29,0
+155,59,5,28.743572669428584,21,Sports,Standard,Credit Card,0,6,18,1
+156,30,29,98.25563449437409,13,Movies,Basic,PayPal,0,9,20,0
+157,68,4,103.69097319511641,33,Movies,Premium,Bank Transfer,0,2,15,0
+158,49,12,50.34751488124912,24,Movies,Standard,PayPal,0,7,14,0
+159,56,2,20.59325190006388,11,TV Shows,Premium,PayPal,0,1,2,1
+160,66,27,156.46110794198006,17,Movies,Premium,Bank Transfer,0,7,17,1
+161,69,31,28.79683516425703,68,Sports,Standard,Credit Card,0,4,22,1
+162,49,26,120.88669635954606,47,Movies,Basic,PayPal,0,1,26,0
+163,21,27,187.6075889073138,25,Sports,Premium,Bank Transfer,1,6,8,0
+164,47,5,175.8405125566183,94,Movies,Premium,Bank Transfer,0,1,10,1
+165,54,20,59.16176163110592,73,Sports,Basic,PayPal,0,5,26,0
+166,40,11,171.03248432249674,21,Sports,Basic,Credit Card,1,9,18,0
+167,56,10,5.064838693495434,84,Movies,Standard,PayPal,0,2,25,0
+168,62,6,8.449122874585157,83,Movies,Standard,Credit Card,0,8,29,1
+169,32,8,122.49786694935867,83,Sports,Standard,Credit Card,0,2,19,0
+170,60,23,76.13565273318325,12,Documentaries,Basic,Credit Card,1,2,8,0
+171,46,26,80.35986402603369,37,TV Shows,Premium,Credit Card,0,4,28,0
+172,53,12,115.06601268238208,42,Documentaries,Premium,PayPal,1,6,8,0
+173,30,26,42.39757884041281,17,Documentaries,Standard,Bank Transfer,0,7,3,0
+174,49,13,46.292293379768275,48,Movies,Basic,Bank Transfer,0,6,3,1
+175,24,18,99.49730946867861,28,TV Shows,Premium,Bank Transfer,1,8,12,1
+176,68,25,152.0794411470533,41,Documentaries,Standard,Bank Transfer,0,4,22,0
+177,39,33,125.8020615244796,99,Movies,Premium,Bank Transfer,0,9,17,1
+178,45,12,62.98423440618358,47,Documentaries,Premium,Bank Transfer,0,2,4,1
+179,19,4,88.91574961423963,18,Documentaries,Basic,PayPal,0,5,17,0
+180,59,5,38.27962791724969,78,Movies,Basic,Credit Card,1,4,14,0
+181,62,8,19.552813795730934,99,Movies,Premium,Bank Transfer,0,3,19,1
+182,23,28,157.6257279451091,71,Movies,Standard,PayPal,0,1,9,0
+183,45,31,56.75054479169795,13,TV Shows,Basic,Bank Transfer,0,6,21,0
+184,45,9,39.6644456309934,82,Documentaries,Premium,Bank Transfer,0,4,12,1
+185,61,29,139.86552083601728,13,Movies,Basic,Credit Card,0,3,5,0
+186,61,14,125.52007648600127,31,Sports,Basic,Credit Card,0,7,11,0
+187,37,22,128.4719770726255,2,Documentaries,Basic,Credit Card,0,8,20,0
+188,47,11,49.634447945089654,16,Sports,Premium,Bank Transfer,1,8,3,0
+189,28,23,50.365880019722795,9,TV Shows,Standard,Bank Transfer,0,2,21,1
+190,45,1,48.056512808199635,73,Movies,Standard,Bank Transfer,0,2,15,0
+191,42,21,38.88175615414743,38,Sports,Standard,Credit Card,1,4,14,0
+192,56,26,132.86611614952298,75,TV Shows,Basic,PayPal,0,4,11,0
+193,50,23,170.36309762363328,54,Movies,Premium,Bank Transfer,0,9,20,0
+194,18,1,146.24190658694894,56,Sports,Basic,Bank Transfer,0,1,8,0
+195,44,15,159.45825858330593,86,Sports,Standard,Bank Transfer,1,0,4,0
+196,69,21,83.93569367161396,97,TV Shows,Standard,PayPal,0,7,27,1
+197,30,9,132.54478009753961,87,Movies,Premium,Bank Transfer,1,2,12,0
+198,58,9,74.07606688673103,45,Movies,Basic,PayPal,0,0,8,0
+199,20,10,107.4734012838848,34,Sports,Standard,Bank Transfer,0,0,6,0
+200,56,26,98.91879507429816,9,Sports,Premium,PayPal,0,1,15,0
+201,23,35,39.492993303051605,88,Sports,Basic,Bank Transfer,0,5,12,0
+202,25,25,80.480358265448,8,Movies,Basic,Credit Card,0,5,16,0
+203,44,26,192.94534371905846,7,TV Shows,Standard,Credit Card,0,2,16,1
+204,26,11,53.4731502544137,36,TV Shows,Standard,Credit Card,0,3,27,0
+205,54,2,31.0917285745003,18,Movies,Basic,Credit Card,0,1,21,0
+206,50,7,86.62322121666737,3,Documentaries,Basic,Bank Transfer,0,1,20,0
+207,68,18,159.11585849272888,28,TV Shows,Standard,Credit Card,0,6,20,1
+208,59,27,118.51890480709459,70,Sports,Basic,PayPal,0,0,28,0
+209,61,34,137.79009131145767,44,Documentaries,Standard,Credit Card,0,6,4,0
+210,41,27,41.99049539406205,21,Documentaries,Basic,Credit Card,0,0,11,0
+211,32,17,125.6948976365057,28,TV Shows,Standard,Credit Card,0,5,13,0
+212,49,24,68.08257700773738,54,Documentaries,Premium,Bank Transfer,0,2,29,0
+213,49,25,167.68915636117967,54,Documentaries,Standard,Credit Card,0,7,9,1
+214,41,7,127.71326717209355,65,TV Shows,Standard,PayPal,1,5,4,0
+215,58,6,43.776974166182704,21,TV Shows,Premium,Credit Card,0,1,12,0
+216,69,24,17.600252569596798,99,Documentaries,Basic,Credit Card,0,7,9,0
+217,66,33,13.313475810971383,13,Sports,Premium,Credit Card,0,4,13,0
+218,66,29,77.42467069177745,57,Movies,Standard,PayPal,0,7,16,0
+219,69,22,56.840971647591125,49,Documentaries,Basic,Credit Card,0,7,26,0
+220,29,26,130.98757407518906,54,Documentaries,Premium,PayPal,0,5,6,0
+221,56,28,102.37009782083057,10,Sports,Basic,PayPal,0,1,10,0
+222,19,21,56.87375921104924,53,Documentaries,Basic,Credit Card,0,7,13,0
+223,20,7,34.101366700284345,44,Documentaries,Premium,PayPal,0,5,7,0
+224,66,17,29.803953724052672,47,Movies,Basic,Bank Transfer,0,5,28,1
+225,54,20,173.60877646738146,53,Movies,Premium,Credit Card,0,7,26,0
+226,66,20,52.47820383894911,74,Movies,Standard,Credit Card,0,0,19,0
+227,34,22,132.08357634263882,46,TV Shows,Basic,PayPal,1,1,24,1
+228,66,28,163.08375595732193,13,TV Shows,Standard,PayPal,0,8,19,0
+229,19,7,124.74585568102354,37,Movies,Standard,Credit Card,0,7,17,1
+230,19,1,172.61522017115442,24,Movies,Basic,Bank Transfer,1,6,13,1
+231,45,32,81.51677569805253,2,TV Shows,Premium,PayPal,0,6,13,1
+232,40,13,191.4633271765449,86,Sports,Basic,PayPal,0,4,26,1
+233,54,30,30.963275814728902,81,Documentaries,Standard,Bank Transfer,0,1,28,0
+234,49,23,24.91915828321993,14,Documentaries,Standard,Bank Transfer,1,5,21,0
+235,50,19,133.4449685104515,10,Movies,Premium,Credit Card,0,9,2,0
+236,18,32,188.85207257558605,35,Sports,Basic,Bank Transfer,0,2,10,0
+237,36,30,162.73227501908397,25,TV Shows,Standard,Credit Card,0,3,22,0
+238,19,29,19.90128759042003,3,Movies,Standard,Bank Transfer,1,9,13,1
+239,61,29,59.47670421726969,17,Sports,Standard,PayPal,0,1,26,0
+240,43,30,186.41218254337562,12,Sports,Premium,Credit Card,0,1,9,1
+241,49,16,54.34639439615299,54,Sports,Standard,Credit Card,1,7,1,1
+242,23,19,157.32823263844926,24,TV Shows,Standard,Credit Card,0,7,14,1
+243,49,18,165.90077820609724,29,TV Shows,Basic,Bank Transfer,0,9,29,1
+244,21,1,101.61316017489145,43,Documentaries,Basic,PayPal,0,5,16,1
+245,28,14,80.33803742042151,25,Documentaries,Standard,Credit Card,0,4,20,1
+246,34,2,92.77426432185312,60,Sports,Standard,Credit Card,1,7,15,0
+247,55,28,49.25811540124601,90,Sports,Basic,Credit Card,0,3,1,0
+248,41,30,178.43122864512463,65,TV Shows,Premium,Credit Card,0,3,17,1
+249,22,4,92.8708330623028,84,Documentaries,Premium,PayPal,0,4,24,1
+250,69,1,177.07959088893946,28,Sports,Premium,Bank Transfer,0,0,13,0
+251,51,8,25.610228581723447,16,Documentaries,Premium,PayPal,1,0,27,0
+252,23,29,197.71367784502561,47,Documentaries,Premium,Credit Card,0,1,15,0
+253,39,3,91.43825205150556,81,Sports,Premium,PayPal,0,7,16,0
+254,28,32,14.327009976850565,92,TV Shows,Premium,Credit Card,0,6,16,1
+255,65,10,12.414260406303708,58,Sports,Premium,Bank Transfer,1,9,2,1
+256,33,10,150.51041520895853,76,Sports,Basic,Bank Transfer,0,8,17,0
+257,50,19,133.51192916971775,27,Documentaries,Premium,Bank Transfer,0,4,11,0
+258,26,34,161.41545883487956,53,Sports,Premium,Credit Card,0,1,8,0
+259,23,33,25.546669120797162,42,TV Shows,Premium,PayPal,0,6,20,0
+260,33,23,11.936319071931928,59,Sports,Standard,Bank Transfer,0,7,3,0
+261,46,28,104.1729614422778,47,TV Shows,Basic,Credit Card,0,6,29,0
+262,20,32,80.58107013914005,94,TV Shows,Basic,Credit Card,0,6,12,0
+263,37,7,95.07965265083638,34,Documentaries,Basic,PayPal,0,4,20,0
+264,53,29,198.35973972970342,37,Movies,Premium,Bank Transfer,0,1,16,0
+265,36,8,194.2962417457807,6,Movies,Premium,Credit Card,1,5,14,0
+266,43,1,188.75150098627262,7,Documentaries,Standard,PayPal,0,3,16,0
+267,20,3,157.8493219696964,96,Sports,Basic,Bank Transfer,1,9,27,0
+268,36,24,74.19406525009363,96,Documentaries,Premium,PayPal,0,1,21,0
+269,37,23,85.36553140124046,25,TV Shows,Basic,PayPal,0,8,17,1
+270,49,8,112.17512852519027,33,Movies,Standard,Credit Card,1,6,11,1
+271,24,3,166.9542189989438,55,Documentaries,Standard,Credit Card,0,5,17,1
+272,69,33,18.399002341062214,58,Sports,Standard,Credit Card,0,4,19,1
+273,58,28,87.73789274755319,7,Documentaries,Basic,PayPal,1,2,22,0
+274,50,8,21.110444374557392,57,Movies,Premium,Credit Card,0,9,1,0
+275,57,34,105.35822938183476,12,Documentaries,Premium,PayPal,0,9,27,0
+276,56,35,180.2856606812159,16,Documentaries,Standard,PayPal,0,3,12,1
+277,35,32,157.5845602899679,80,Movies,Premium,Credit Card,0,2,15,1
+278,57,24,49.429271420906446,43,TV Shows,Standard,Bank Transfer,0,7,18,0
+279,18,14,195.31821567176453,77,TV Shows,Basic,Bank Transfer,0,2,28,0
+280,28,32,135.13332761905355,7,Movies,Standard,Bank Transfer,0,6,23,0
+281,45,16,7.033401382493598,51,Documentaries,Basic,PayPal,0,6,14,1
+282,42,4,54.8056295136178,73,Movies,Standard,PayPal,0,6,1,0
+283,67,21,55.839093484383724,32,TV Shows,Premium,PayPal,0,6,13,0
+284,40,14,18.504589725742687,75,Sports,Premium,Credit Card,0,1,15,0
+285,48,31,192.16617102480615,8,Documentaries,Standard,PayPal,0,9,7,0
+286,47,18,98.25978244230514,97,TV Shows,Premium,Credit Card,0,2,15,1
+287,59,7,179.68384648751697,87,Documentaries,Premium,Credit Card,0,9,20,0
+288,52,10,67.83202317170253,89,Movies,Premium,Bank Transfer,0,8,10,1
+289,24,7,29.42054623440129,72,Sports,Basic,Bank Transfer,0,2,14,0
+290,33,33,97.49554143171171,45,Movies,Premium,Bank Transfer,1,1,6,1
+291,43,23,27.221543769291845,86,Sports,Basic,Credit Card,0,8,14,1
+292,65,21,99.77302308062029,59,Documentaries,Standard,Credit Card,0,9,24,0
+293,69,19,184.4579503377845,4,Documentaries,Premium,Credit Card,0,8,25,0
+294,66,19,106.54978765767147,67,Movies,Premium,PayPal,0,3,22,0
+295,19,29,125.21744674454128,29,Sports,Premium,Credit Card,1,8,12,0
+296,18,18,35.54449520989262,29,Sports,Standard,Bank Transfer,1,2,11,1
+297,65,2,13.52844704659405,98,Documentaries,Basic,Bank Transfer,0,6,29,0
+298,29,1,26.60755262506237,98,Movies,Basic,Credit Card,0,6,25,1
+299,22,5,121.7136572584513,28,Sports,Premium,Credit Card,1,7,20,0
+300,54,20,23.527281303499407,77,Documentaries,Standard,Bank Transfer,1,9,22,0
+301,49,11,78.31861353855572,79,TV Shows,Standard,Credit Card,0,3,24,0
+302,26,2,112.26792838934043,87,Movies,Standard,Bank Transfer,0,2,25,0
+303,58,3,80.78729573282017,44,TV Shows,Standard,PayPal,0,2,19,0
+304,52,23,36.91834128573379,90,Movies,Standard,Bank Transfer,1,4,2,1
+305,36,12,58.38930496525077,4,Documentaries,Basic,PayPal,0,0,22,0
+306,65,20,186.02191890547252,90,Sports,Basic,Credit Card,0,9,20,1
+307,33,5,136.8165437393393,9,Sports,Basic,Credit Card,0,2,1,0
+308,20,30,101.72932854257787,5,Sports,Premium,PayPal,0,5,8,0
+309,37,9,7.479403547444236,56,Movies,Standard,Credit Card,0,2,25,1
+310,41,34,198.52100309544667,96,Documentaries,Premium,PayPal,1,4,14,1
+311,50,35,135.93371230445544,84,TV Shows,Standard,Credit Card,0,8,9,0
+312,41,22,66.79988308226427,50,Documentaries,Basic,Bank Transfer,0,1,2,1
+313,69,24,176.45738869957844,75,TV Shows,Premium,Credit Card,0,1,25,0
+314,28,17,55.39416595690453,15,Movies,Basic,Bank Transfer,0,5,23,0
+315,66,10,111.08323294063656,32,Movies,Standard,Bank Transfer,0,5,5,0
+316,25,30,129.0337989273159,28,TV Shows,Standard,PayPal,0,7,23,1
+317,53,23,48.10735743347705,22,TV Shows,Standard,Credit Card,0,1,29,0
+318,55,32,195.7874693661162,17,TV Shows,Basic,PayPal,0,8,25,0
+319,57,17,150.89742166590452,59,Documentaries,Standard,Credit Card,0,1,8,0
+320,37,17,113.77357897465863,90,TV Shows,Basic,Bank Transfer,0,0,16,0
+321,52,14,40.215946644183674,71,Movies,Premium,Bank Transfer,1,9,22,0
+322,65,9,15.502350364615095,57,Movies,Standard,Credit Card,1,1,16,0
+323,42,2,67.41166734159177,26,Sports,Standard,Credit Card,0,6,13,0
+324,52,25,151.87153050311355,25,TV Shows,Standard,PayPal,0,7,20,0
+325,42,9,57.51960316889489,10,Documentaries,Premium,Credit Card,1,4,29,0
+326,46,22,110.21346299662349,45,Documentaries,Standard,Credit Card,0,5,15,0
+327,35,4,146.94969946249492,83,Documentaries,Basic,Credit Card,0,0,1,0
+328,63,26,26.04902435606055,11,Sports,Basic,PayPal,1,5,22,0
+329,35,29,138.6331131425953,77,Movies,Standard,Credit Card,0,7,3,1
+330,19,34,22.914823103458716,53,Documentaries,Standard,Bank Transfer,0,2,6,0
+331,52,23,193.20029971476433,72,Movies,Premium,PayPal,1,0,22,0
+332,33,11,100.23685536266322,68,Sports,Premium,PayPal,0,3,14,0
+333,58,6,34.38184100342609,95,TV Shows,Premium,Bank Transfer,0,0,4,1
+334,53,18,71.76480902654157,28,TV Shows,Standard,Bank Transfer,0,7,18,1
+335,50,21,85.61620761257598,75,TV Shows,Premium,Bank Transfer,0,4,15,0
+336,21,34,152.8460771599248,65,Documentaries,Premium,Credit Card,0,0,9,0
+337,50,17,149.9676382849388,49,TV Shows,Basic,Bank Transfer,0,7,18,0
+338,31,25,124.32839854077955,47,Documentaries,Premium,Credit Card,1,8,3,0
+339,38,12,25.656488948906127,52,Sports,Basic,PayPal,0,9,10,0
+340,65,23,34.55602745959635,88,Sports,Basic,PayPal,0,1,17,0
+341,37,22,23.282599525883544,54,Documentaries,Premium,Bank Transfer,0,8,7,1
+342,25,21,117.54869274107226,60,Movies,Basic,Credit Card,0,7,15,0
+343,24,27,176.04199609472377,57,TV Shows,Standard,Bank Transfer,0,6,1,0
+344,20,31,89.59109988968049,47,TV Shows,Standard,Bank Transfer,1,2,27,0
+345,34,6,36.36539392176051,31,TV Shows,Premium,Credit Card,1,1,25,0
+346,50,27,113.81825340404856,46,Documentaries,Standard,Bank Transfer,0,6,27,0
+347,65,34,163.29168228881343,26,Sports,Basic,PayPal,0,4,11,0
+348,29,12,149.63385199502136,5,TV Shows,Standard,Bank Transfer,0,5,17,0
+349,68,7,176.88290203662916,84,Sports,Premium,Credit Card,0,3,5,0
+350,39,10,59.190908963529225,52,TV Shows,Premium,Credit Card,0,1,7,0
+351,39,17,42.8210041172161,75,TV Shows,Basic,PayPal,0,8,19,0
+352,63,26,176.56421475867805,54,Documentaries,Premium,Credit Card,1,2,25,0
+353,47,21,133.2242609917145,33,Movies,Standard,Credit Card,0,6,24,0
+354,55,28,65.63114135147306,50,Documentaries,Premium,PayPal,0,7,29,0
+355,55,2,149.75786986163928,38,TV Shows,Basic,Bank Transfer,0,1,15,0
+356,62,1,163.94808497367174,27,TV Shows,Premium,PayPal,0,5,3,0
+357,68,26,124.9207568665208,98,Movies,Standard,Bank Transfer,0,7,15,0
+358,25,29,139.13740142658344,15,Sports,Basic,PayPal,0,6,5,0
+359,44,21,78.17568136631994,96,Sports,Standard,Bank Transfer,0,2,23,0
+360,44,11,110.04565513189262,61,TV Shows,Basic,PayPal,0,0,12,0
+361,51,11,107.21103829160164,21,Sports,Premium,Bank Transfer,0,5,20,1
+362,38,35,170.3693192705005,46,TV Shows,Basic,PayPal,0,7,5,0
+363,47,34,168.7929761550256,69,Movies,Basic,Bank Transfer,0,5,3,0
+364,50,24,167.37269152267342,6,Movies,Premium,PayPal,0,4,9,0
+365,45,22,7.15116478118083,38,TV Shows,Standard,Credit Card,0,7,26,0
+366,64,5,151.1613694714332,62,Movies,Premium,Bank Transfer,0,1,9,1
+367,50,33,152.94189607164594,86,Documentaries,Basic,PayPal,0,0,7,0
+368,22,20,137.28387045675265,62,Documentaries,Premium,Bank Transfer,0,0,26,1
+369,65,19,152.47160828883327,82,Movies,Basic,Bank Transfer,0,3,2,0
+370,36,35,169.1842224418582,78,TV Shows,Premium,PayPal,0,5,23,0
+371,21,17,96.7122155498482,74,TV Shows,Premium,Bank Transfer,0,8,23,1
+372,52,34,102.8997916302472,46,Movies,Standard,PayPal,0,0,27,0
+373,66,9,29.319241097721143,13,Sports,Basic,Credit Card,0,0,21,0
+374,34,26,80.14829719423555,95,Documentaries,Standard,Bank Transfer,1,4,16,0
+375,61,2,130.45621008279795,94,Sports,Basic,Credit Card,0,9,9,0
+376,45,9,157.17795634871854,3,TV Shows,Premium,Bank Transfer,1,4,13,0
+377,47,9,47.355774049786056,94,TV Shows,Basic,Bank Transfer,0,4,28,0
+378,46,17,31.875465336050905,6,Sports,Standard,Bank Transfer,0,9,27,0
+379,63,1,134.29319087759598,93,Movies,Standard,PayPal,1,5,19,1
+380,23,25,5.366577287357575,8,Sports,Standard,Credit Card,0,7,20,1
+381,52,25,39.78265393992932,44,Sports,Basic,Bank Transfer,0,2,17,0
+382,58,35,10.668919167070978,33,Documentaries,Standard,PayPal,0,8,6,0
+383,54,3,37.54259798169983,81,Documentaries,Standard,Bank Transfer,0,0,4,0
+384,41,30,40.35725958547352,75,Sports,Standard,PayPal,0,3,1,0
+385,46,34,80.59635097632687,77,Sports,Premium,Bank Transfer,0,8,18,1
+386,66,12,83.45378931387842,50,TV Shows,Premium,Credit Card,1,7,19,0
+387,63,19,175.48118176899635,11,Documentaries,Basic,Credit Card,0,9,9,0
+388,48,17,104.47139393727092,95,Documentaries,Basic,Bank Transfer,1,8,13,1
+389,52,10,146.06392929439582,28,TV Shows,Standard,PayPal,1,0,8,1
+390,50,12,25.30678479445605,70,Movies,Premium,Bank Transfer,0,8,23,0
+391,69,16,48.9605573154203,41,Documentaries,Standard,PayPal,0,2,13,0
+392,38,24,142.07397099084199,16,Documentaries,Standard,Bank Transfer,1,9,15,0
+393,49,19,15.296772291362977,68,Movies,Premium,PayPal,1,8,11,1
+394,40,8,99.88654413753186,99,Documentaries,Premium,Credit Card,0,0,12,0
+395,50,31,121.8769483042721,48,Documentaries,Premium,Bank Transfer,0,0,14,0
+396,20,21,122.4184005902338,56,Movies,Basic,Credit Card,0,8,4,0
+397,35,17,9.471898197268196,64,Movies,Basic,Credit Card,0,5,1,0
+398,42,23,67.81106082469117,59,Sports,Standard,Bank Transfer,0,3,24,0
+399,59,16,129.11567695458504,90,TV Shows,Basic,Bank Transfer,0,6,4,1
+400,48,6,34.05494854910248,62,TV Shows,Premium,PayPal,0,4,19,1
+401,20,8,140.60605142397037,76,Movies,Premium,PayPal,0,9,9,1
+402,57,25,150.45541571866653,11,Movies,Basic,Credit Card,0,6,10,0
+403,63,18,196.48399213699832,89,Documentaries,Standard,PayPal,0,7,4,1
+404,41,25,45.919188996999836,18,Sports,Standard,PayPal,0,7,20,1
+405,67,12,165.90048019489245,19,Sports,Basic,Bank Transfer,0,0,9,0
+406,49,15,106.45783249913754,87,Movies,Standard,PayPal,0,7,13,0
+407,64,26,77.82520624811382,55,Documentaries,Standard,Credit Card,0,5,12,0
+408,39,26,28.863467678409698,82,Documentaries,Standard,PayPal,0,3,11,1
+409,40,32,148.42359326506983,26,TV Shows,Premium,Credit Card,1,7,12,0
+410,19,10,50.992231833018984,6,TV Shows,Premium,Bank Transfer,0,2,18,1
+411,44,16,77.42729036524392,4,Documentaries,Basic,Credit Card,0,3,12,0
+412,59,7,17.195734244986845,29,TV Shows,Premium,PayPal,0,5,16,0
+413,19,17,161.2665485848062,59,Movies,Standard,Bank Transfer,1,6,5,0
+414,43,23,154.48476217447046,98,Documentaries,Premium,PayPal,0,3,20,0
+415,34,26,148.05508685825092,17,TV Shows,Basic,Bank Transfer,0,3,25,0
+416,57,21,63.3914845459179,43,Sports,Premium,Bank Transfer,0,6,12,1
+417,50,22,38.82861448186166,80,Documentaries,Standard,PayPal,0,5,21,0
+418,26,7,129.3228865716948,66,Documentaries,Standard,PayPal,0,7,25,0
+419,60,14,101.7524449020778,34,Sports,Basic,Bank Transfer,0,0,11,0
+420,65,15,39.759231046405105,8,Movies,Premium,Bank Transfer,0,9,9,0
+421,56,7,138.75269785472344,13,Sports,Premium,PayPal,0,6,18,0
+422,46,9,198.2696542051542,8,Documentaries,Premium,Credit Card,0,6,25,0
+423,59,8,150.70781960969734,94,Movies,Standard,PayPal,0,6,3,1
+424,43,23,149.2973454036943,96,TV Shows,Basic,Bank Transfer,0,6,20,0
+425,52,29,190.31098682146538,94,TV Shows,Premium,PayPal,0,9,17,0
+426,67,18,44.572591677105926,65,TV Shows,Standard,Credit Card,0,9,14,0
+427,42,31,115.28224315968087,43,Documentaries,Standard,PayPal,0,7,1,0
+428,41,30,196.03110943160726,39,Sports,Standard,Bank Transfer,0,8,17,1
+429,30,35,37.23235163918404,81,Movies,Premium,PayPal,0,8,25,0
+430,24,18,141.5491320916816,59,TV Shows,Premium,Bank Transfer,1,1,27,1
+431,53,17,119.23297846452088,84,Movies,Premium,Bank Transfer,0,6,8,0
+432,62,14,119.36342297679786,88,Documentaries,Premium,PayPal,0,6,5,0
+433,37,31,141.04577236641464,86,TV Shows,Premium,Bank Transfer,0,3,5,1
+434,18,24,186.27529996075842,93,Documentaries,Premium,Bank Transfer,0,8,9,0
+435,25,35,157.6034782710109,86,Sports,Premium,Credit Card,0,7,3,0
+436,63,34,15.94654016616095,44,Documentaries,Premium,Credit Card,0,0,19,0
+437,33,3,171.2819638757637,9,Documentaries,Premium,Credit Card,0,1,23,1
+438,31,26,48.98055933551786,37,Sports,Standard,Credit Card,0,1,9,0
+439,29,23,78.49826212359253,74,Movies,Premium,Bank Transfer,0,7,22,0
+440,68,15,95.03789865441452,36,Sports,Basic,PayPal,0,0,18,0
+441,40,4,98.77667014684859,92,Sports,Standard,Bank Transfer,0,3,16,0
+442,32,29,89.86017785479457,28,Documentaries,Premium,Bank Transfer,0,9,1,1
+443,45,22,187.78389237209356,42,Movies,Basic,Bank Transfer,0,4,2,0
+444,51,25,142.6737064944848,43,TV Shows,Premium,PayPal,0,8,14,0
+445,19,13,128.07827596155772,85,Sports,Basic,Credit Card,1,6,14,1
+446,49,18,14.719195417673603,88,Movies,Basic,Bank Transfer,1,7,1,0
+447,40,33,181.26309940077306,42,Sports,Basic,Bank Transfer,0,8,26,0
+448,39,16,182.33108744163727,66,Sports,Basic,Credit Card,0,6,26,0
+449,68,2,157.14154736886996,55,Sports,Standard,Bank Transfer,0,4,25,0
+450,42,35,6.3706947436557355,72,Sports,Standard,PayPal,0,4,16,0
+451,39,34,16.169648960136556,48,Documentaries,Basic,Bank Transfer,0,9,15,0
+452,39,30,48.9186219423555,91,Movies,Premium,Bank Transfer,0,5,26,0
+453,66,13,30.613134588256806,22,Movies,Basic,Credit Card,0,4,15,0
+454,69,13,82.77302579222724,27,Movies,Standard,Bank Transfer,1,8,12,0
+455,59,18,184.91149632711898,93,Sports,Premium,Bank Transfer,0,2,16,0
+456,23,32,97.05178466841467,67,Documentaries,Standard,PayPal,0,2,14,0
+457,32,32,7.613512154272294,13,Sports,Standard,Credit Card,0,6,29,1
+458,60,35,60.135409467858594,45,Sports,Premium,Credit Card,0,6,24,0
+459,54,29,13.6960071327275,10,Movies,Basic,PayPal,0,5,15,0
+460,50,29,12.076086409632921,9,Sports,Basic,Bank Transfer,0,2,23,0
+461,25,16,58.76537135363269,54,TV Shows,Basic,Credit Card,0,6,15,1
+462,61,10,58.74440604239435,27,Sports,Basic,Credit Card,0,4,19,1
+463,61,30,158.4896875073128,34,TV Shows,Premium,Bank Transfer,0,6,8,0
+464,22,25,195.09275729231683,1,Sports,Premium,Bank Transfer,0,1,2,0
+465,56,20,77.38538330854966,32,Documentaries,Premium,Credit Card,0,5,2,0
+466,21,5,88.63294137790253,89,Documentaries,Standard,Bank Transfer,0,7,27,0
+467,23,1,169.73394007577417,93,Movies,Premium,Credit Card,0,0,10,0
+468,62,30,57.28710891862511,71,Sports,Basic,Bank Transfer,0,3,3,1
+469,49,3,35.49445185867235,67,TV Shows,Standard,Bank Transfer,0,0,23,0
+470,69,14,171.35247656371183,84,TV Shows,Basic,PayPal,0,0,17,0
+471,47,30,14.067614355812772,20,Sports,Basic,Bank Transfer,0,9,8,0
+472,64,4,125.84139083888606,94,TV Shows,Premium,PayPal,1,7,28,0
+473,52,18,114.58860525602732,35,Documentaries,Premium,Bank Transfer,0,6,23,1
+474,57,25,72.45448726283038,99,TV Shows,Basic,Credit Card,0,9,4,1
+475,69,1,66.461956613985,91,Movies,Basic,Credit Card,0,0,14,0
+476,33,15,155.51225660541616,90,Documentaries,Standard,Bank Transfer,1,1,21,0
+477,30,9,21.852799098696565,78,Documentaries,Premium,Bank Transfer,0,3,10,0
+478,67,15,51.17294031572015,17,Documentaries,Standard,Credit Card,0,0,29,0
+479,59,24,147.82750270842752,18,Sports,Standard,Bank Transfer,0,2,1,0
+480,47,4,111.92251382665272,45,Sports,Standard,PayPal,0,7,4,0
+481,36,12,29.957700664049344,93,Documentaries,Basic,PayPal,0,7,1,1
+482,34,6,177.0164447850017,84,Sports,Standard,PayPal,0,7,17,0
+483,36,24,81.72233007990036,53,TV Shows,Standard,PayPal,0,5,26,1
+484,45,11,166.4343331878237,91,Sports,Basic,PayPal,1,5,17,0
+485,43,13,158.6040380279032,82,Sports,Premium,Bank Transfer,0,4,7,1
+486,54,34,126.76296206198697,68,Documentaries,Premium,Bank Transfer,0,8,23,0
+487,43,25,101.42382060254313,65,Movies,Standard,PayPal,0,3,20,0
+488,40,7,196.0124138744426,1,Movies,Basic,Bank Transfer,0,9,15,0
+489,26,4,33.26818911406433,58,Movies,Premium,Bank Transfer,0,6,13,1
+490,29,8,146.4053668724674,26,TV Shows,Standard,PayPal,0,0,28,0
+491,18,20,42.282186785633854,20,Sports,Standard,Bank Transfer,0,8,2,0
+492,18,29,70.96130553980794,87,Movies,Basic,Bank Transfer,0,6,28,0
+493,64,10,65.19625495777308,10,Documentaries,Standard,Bank Transfer,0,9,19,0
+494,51,34,189.67201760905098,59,Movies,Premium,PayPal,0,8,24,0
+495,49,26,193.63445466871366,75,Movies,Basic,Bank Transfer,0,6,13,1
+496,65,3,40.68801162577179,41,Sports,Premium,Credit Card,0,1,24,0
+497,42,6,9.296856258013317,5,Sports,Premium,Credit Card,0,5,11,0
+498,57,5,145.40156773430706,65,Sports,Premium,PayPal,1,9,27,0
+499,62,5,86.50803710474445,17,TV Shows,Standard,Credit Card,1,3,22,0
+500,18,23,22.323847792075053,22,TV Shows,Standard,PayPal,0,2,15,0
+501,33,9,138.3320505875233,98,Movies,Premium,Credit Card,0,1,10,0
+502,56,35,111.29557801083644,41,Sports,Premium,Credit Card,0,5,9,0
+503,22,20,196.20078029021568,93,Movies,Basic,Credit Card,0,7,27,0
+504,39,35,49.34485169296889,68,Documentaries,Basic,PayPal,0,5,28,1
+505,46,18,83.77568588367691,69,Documentaries,Standard,PayPal,0,8,9,0
+506,20,17,110.79643166210747,11,Sports,Standard,Bank Transfer,0,4,20,0
+507,29,24,159.38149774840358,56,Sports,Basic,PayPal,0,1,28,1
+508,43,3,112.02353806041145,51,Documentaries,Premium,Credit Card,0,7,1,0
+509,33,32,124.51553136808009,21,Sports,Standard,Credit Card,0,8,17,0
+510,68,35,49.098675060038445,99,TV Shows,Premium,PayPal,0,9,12,0
+511,54,13,170.14915197726916,76,TV Shows,Basic,PayPal,0,3,10,1
+512,39,25,88.58295665924277,26,Sports,Standard,PayPal,0,5,5,0
+513,46,9,32.48712736674501,19,Documentaries,Standard,Bank Transfer,0,9,29,0
+514,31,4,134.5166433285564,60,Movies,Basic,Credit Card,0,7,18,0
+515,45,14,47.13763837113496,71,Sports,Standard,Bank Transfer,0,8,15,0
+516,22,34,24.02468949666345,47,Sports,Basic,Bank Transfer,0,4,6,0
+517,64,11,173.08744713883308,71,Movies,Standard,Credit Card,0,5,7,0
+518,66,3,94.73164157524573,26,Sports,Basic,Credit Card,0,3,17,0
+519,47,28,151.1103239756764,40,Movies,Standard,PayPal,0,4,6,0
+520,63,29,61.66457416223924,5,Documentaries,Premium,PayPal,0,6,8,0
+521,69,9,158.45917630894493,21,TV Shows,Premium,Bank Transfer,0,8,12,0
+522,22,3,26.827505769198414,78,Documentaries,Premium,PayPal,0,9,21,0
+523,29,25,74.41480788999628,4,TV Shows,Standard,PayPal,0,5,14,0
+524,33,34,195.72205450483807,23,Movies,Standard,Credit Card,1,5,12,1
+525,43,12,159.82799469176118,84,TV Shows,Premium,Credit Card,0,7,23,0
+526,43,9,101.9649064113642,15,Documentaries,Premium,PayPal,0,3,10,0
+527,65,15,71.25660695456759,93,TV Shows,Basic,Credit Card,0,2,22,1
+528,38,25,175.06646150438291,8,Movies,Basic,PayPal,0,6,20,0
+529,56,5,111.24531302148056,41,TV Shows,Basic,Credit Card,1,4,15,0
+530,53,11,152.89287848447665,19,Sports,Premium,Credit Card,0,1,7,0
+531,50,34,152.050997661652,46,Documentaries,Premium,Credit Card,0,1,26,0
+532,47,24,8.499407320855907,28,Sports,Premium,Credit Card,0,5,9,1
+533,54,15,29.619487644559623,91,Movies,Basic,PayPal,0,7,10,1
+534,40,8,133.62772644697475,68,TV Shows,Standard,Bank Transfer,0,0,10,0
+535,27,5,36.51586320074493,15,Sports,Premium,Credit Card,0,5,16,0
+536,22,26,54.821202207842916,99,Sports,Standard,PayPal,0,1,29,0
+537,53,18,189.5944010689234,37,TV Shows,Standard,PayPal,0,1,7,0
+538,51,6,114.23554038310782,1,TV Shows,Standard,Credit Card,0,6,28,1
+539,69,13,151.39225386487269,67,Documentaries,Basic,Bank Transfer,1,9,5,1
+540,48,28,113.80624406261478,24,Sports,Standard,Credit Card,0,0,23,0
+541,27,5,112.74015488263142,27,Sports,Premium,PayPal,0,5,3,0
+542,36,13,23.35962247451109,40,Movies,Basic,Bank Transfer,0,6,18,0
+543,49,17,72.01432255877509,63,Documentaries,Premium,PayPal,0,7,11,0
+544,18,32,60.074025243869784,61,Movies,Premium,Credit Card,0,6,15,1
+545,22,29,81.19203129465458,36,Sports,Basic,Bank Transfer,0,5,21,0
+546,62,3,160.67711670374402,98,Movies,Premium,PayPal,0,8,20,1
+547,21,34,77.52687024378865,93,Sports,Premium,PayPal,0,2,5,0
+548,33,27,93.08087975017813,24,Sports,Basic,PayPal,1,5,24,0
+549,41,13,82.48937114463672,24,Movies,Premium,Credit Card,0,3,12,0
+550,33,33,23.214554535182643,4,Movies,Standard,Bank Transfer,0,1,4,0
+551,19,6,91.00907085890283,67,TV Shows,Premium,Credit Card,1,0,15,0
+552,66,24,43.14380824368043,34,TV Shows,Standard,Credit Card,0,0,9,1
+553,45,19,41.41104267574309,57,TV Shows,Premium,Credit Card,0,9,7,0
+554,49,16,23.33704036468194,49,Sports,Basic,Bank Transfer,0,2,10,0
+555,44,28,74.55083995764413,87,Movies,Basic,Credit Card,0,3,29,0
+556,37,33,152.70896753393637,53,Documentaries,Premium,Credit Card,1,1,28,0
+557,41,13,58.906129663762236,23,Sports,Basic,Credit Card,1,0,23,0
+558,29,25,65.90807486767514,69,Documentaries,Premium,Credit Card,0,3,13,1
+559,67,27,130.3215582461226,95,Movies,Basic,PayPal,0,6,29,0
+560,52,7,43.18895845444918,53,Sports,Standard,Credit Card,0,9,8,0
+561,50,5,179.9067964325892,62,Documentaries,Premium,PayPal,0,5,12,0
+562,50,31,106.43715203405311,41,Documentaries,Standard,Credit Card,0,5,22,0
+563,68,23,92.2825733624423,57,TV Shows,Standard,Bank Transfer,0,8,24,0
+564,60,10,113.77493742619427,60,TV Shows,Premium,PayPal,1,1,19,0
+565,54,32,37.37669111615811,54,TV Shows,Standard,PayPal,1,3,26,0
+566,29,30,124.62726203463937,70,Sports,Premium,PayPal,0,4,26,0
+567,20,31,75.80464364363203,57,Movies,Standard,PayPal,0,0,1,0
+568,18,18,179.95133648810068,10,Movies,Premium,Bank Transfer,0,7,16,0
+569,50,2,37.9265703021488,40,TV Shows,Premium,Credit Card,0,7,22,1
+570,57,14,103.874965253761,7,TV Shows,Basic,PayPal,0,5,17,0
+571,27,13,121.6319627269585,38,TV Shows,Premium,Bank Transfer,0,4,25,0
+572,60,29,11.509802348344339,85,Documentaries,Premium,PayPal,0,7,18,0
+573,61,12,75.92015932744735,61,TV Shows,Standard,Credit Card,0,2,11,0
+574,46,2,147.8638707666624,84,Documentaries,Premium,PayPal,0,2,18,1
+575,30,32,164.97361395254978,3,Movies,Basic,Bank Transfer,1,1,7,1
+576,29,13,66.06658898937006,51,Sports,Standard,Credit Card,0,4,18,0
+577,48,27,160.72568811463648,86,Sports,Standard,Bank Transfer,0,2,26,0
+578,63,17,193.71239603516082,47,Sports,Basic,Credit Card,0,2,8,0
+579,19,31,172.09041753464334,68,Sports,Standard,Credit Card,0,5,6,0
+580,68,34,27.940577691068412,92,Documentaries,Standard,Credit Card,1,7,7,0
+581,67,24,149.24741475668043,76,Documentaries,Standard,PayPal,0,1,23,1
+582,52,35,67.33503232590621,38,TV Shows,Standard,Bank Transfer,0,3,22,1
+583,40,6,197.74111793535494,36,Documentaries,Basic,Bank Transfer,0,6,10,1
+584,34,19,99.64500171617799,41,TV Shows,Basic,Bank Transfer,0,0,11,1
+585,43,30,28.8746101799935,69,TV Shows,Standard,Credit Card,0,0,25,0
+586,25,7,146.4111818653412,13,Sports,Standard,PayPal,0,9,13,0
+587,46,10,67.98718368531169,87,Documentaries,Basic,Credit Card,0,6,9,0
+588,43,32,199.43024063092403,58,Documentaries,Basic,Bank Transfer,0,6,7,0
+589,27,34,196.05757928163177,50,TV Shows,Basic,PayPal,0,0,9,0
+590,43,28,132.94613351401324,30,TV Shows,Standard,PayPal,0,0,13,1
+591,51,15,30.31615754558493,62,Movies,Standard,PayPal,0,3,26,1
+592,68,30,138.93789454663067,25,Movies,Premium,Bank Transfer,0,4,3,1
+593,58,29,23.140944859705304,27,TV Shows,Basic,PayPal,1,4,3,1
+594,24,22,10.726011024966501,51,Movies,Standard,PayPal,1,3,1,1
+595,21,4,165.47689701318978,78,Movies,Basic,Credit Card,0,7,21,0
+596,67,20,45.90182479831786,57,TV Shows,Standard,Credit Card,0,6,20,1
+597,62,32,78.91028961272399,47,TV Shows,Basic,PayPal,0,8,2,0
+598,28,4,194.82419104535376,39,Documentaries,Standard,PayPal,0,6,25,0
+599,46,27,70.68389786291513,16,TV Shows,Premium,Credit Card,0,9,3,1
+600,53,17,62.81550735024648,22,TV Shows,Premium,Credit Card,0,0,15,1
+601,42,12,184.05055992644117,85,Sports,Basic,Credit Card,0,6,24,0
+602,38,22,26.59594683719683,54,Documentaries,Standard,Bank Transfer,0,0,6,0
+603,53,17,153.11856997235319,21,Documentaries,Standard,Bank Transfer,1,6,13,0
+604,27,10,197.67278549729093,72,Documentaries,Basic,Credit Card,0,9,21,0
+605,54,1,180.75272210105652,16,Sports,Standard,PayPal,0,7,1,1
+606,26,22,132.07524414775304,59,TV Shows,Basic,Credit Card,0,8,20,0
+607,41,26,66.24185502358273,31,Documentaries,Standard,Bank Transfer,0,2,19,0
+608,52,18,54.59278632977176,42,Documentaries,Basic,PayPal,1,3,1,0
+609,66,14,164.75474544993492,74,Movies,Standard,Bank Transfer,0,3,28,0
+610,52,29,176.5652732205806,32,Documentaries,Basic,PayPal,0,8,21,0
+611,65,12,107.45980794641011,59,TV Shows,Standard,Bank Transfer,0,6,22,1
+612,53,35,52.646288453360896,34,TV Shows,Premium,PayPal,0,2,2,0
+613,35,12,27.023925640178845,9,Movies,Standard,PayPal,0,9,15,0
+614,66,7,21.999996227207077,81,Documentaries,Basic,PayPal,0,4,14,0
+615,56,29,145.22010223400184,11,Documentaries,Premium,PayPal,0,6,19,0
+616,49,11,86.92315193030637,96,Documentaries,Standard,Bank Transfer,0,7,11,1
+617,41,33,181.5451754841847,10,Sports,Premium,Bank Transfer,0,0,15,0
+618,40,6,149.23590364171892,86,Documentaries,Standard,PayPal,0,1,6,1
+619,49,15,42.29578149334441,17,TV Shows,Premium,PayPal,0,6,20,0
+620,54,32,124.68659666906132,68,TV Shows,Basic,Bank Transfer,0,1,9,0
+621,29,11,89.92356360764107,48,Sports,Standard,PayPal,0,6,5,0
+622,66,23,117.56369749987955,52,Sports,Standard,PayPal,0,8,20,0
+623,30,26,148.92347905101084,25,Documentaries,Basic,PayPal,0,1,2,1
+624,40,34,162.2081967957392,21,Movies,Premium,Credit Card,0,6,6,0
+625,42,34,169.52877864931122,65,Sports,Basic,PayPal,0,3,26,0
+626,52,29,54.52510054154482,63,Sports,Basic,Credit Card,0,1,18,0
+627,58,4,11.067541983884748,89,Documentaries,Premium,PayPal,0,6,28,0
+628,47,17,149.16247335713078,51,Documentaries,Basic,Bank Transfer,0,4,29,1
+629,34,35,25.737026619876048,36,Sports,Standard,Credit Card,0,0,23,0
+630,66,13,66.40931977952869,81,Movies,Standard,Credit Card,0,4,19,0
+631,37,15,5.744341154247693,88,Sports,Standard,PayPal,0,2,9,1
+632,65,29,137.92554906831592,66,Documentaries,Basic,PayPal,0,6,27,0
+633,42,29,37.59074223688815,15,Documentaries,Standard,Credit Card,0,5,21,0
+634,39,11,132.78006988987335,96,Sports,Standard,Bank Transfer,0,7,24,0
+635,30,32,198.38981034772857,39,Movies,Standard,Bank Transfer,0,4,27,0
+636,36,2,19.170819963953175,70,Sports,Standard,PayPal,0,1,6,0
+637,66,14,20.030212330534834,1,Sports,Standard,Bank Transfer,0,8,14,0
+638,53,20,71.3741180700016,23,Documentaries,Standard,Bank Transfer,0,7,28,0
+639,29,22,173.9453702790117,39,Movies,Basic,PayPal,0,5,26,1
+640,58,11,47.02832441430971,57,TV Shows,Standard,Bank Transfer,0,9,24,0
+641,36,27,75.27367488641778,81,Movies,Standard,PayPal,0,6,29,0
+642,29,3,18.35855429226102,34,Sports,Premium,Credit Card,0,8,13,0
+643,26,17,153.81528179548343,41,Sports,Basic,PayPal,0,6,11,1
+644,24,28,84.61973683809296,93,Sports,Basic,Credit Card,1,2,12,0
+645,45,29,153.05350294686434,73,Movies,Basic,Credit Card,1,5,19,0
+646,31,21,181.20352964762503,13,Documentaries,Basic,Bank Transfer,0,6,19,0
+647,48,16,50.388813684751305,70,Sports,Standard,Bank Transfer,0,1,21,0
+648,69,20,162.4422259162905,6,Sports,Standard,Bank Transfer,0,2,27,1
+649,36,6,16.523308565259388,84,Movies,Premium,PayPal,0,3,26,0
+650,64,19,180.27524069514823,52,TV Shows,Premium,Bank Transfer,0,9,19,0
+651,33,5,131.89986677395575,3,TV Shows,Basic,Credit Card,0,5,24,0
+652,22,3,175.47421120697857,81,Documentaries,Premium,Bank Transfer,0,0,26,0
+653,52,1,5.03673791353347,63,Documentaries,Premium,Bank Transfer,0,8,13,1
+654,29,15,37.97080871941854,49,Sports,Basic,PayPal,0,4,28,0
+655,42,34,81.00308054816595,76,Movies,Basic,PayPal,0,6,14,0
+656,69,35,79.00306615807013,47,Sports,Premium,Credit Card,0,8,24,0
+657,38,25,49.21242467008458,55,Documentaries,Standard,PayPal,1,8,18,0
+658,53,24,79.41432827410402,64,Movies,Premium,Bank Transfer,0,0,12,0
+659,40,12,30.12549884004969,65,Movies,Premium,PayPal,0,0,4,0
+660,33,18,85.48842020687508,81,Documentaries,Standard,Credit Card,0,2,10,0
+661,56,15,161.45909418605652,67,TV Shows,Standard,Bank Transfer,1,5,29,0
+662,62,16,98.41866230515349,90,TV Shows,Basic,Credit Card,0,1,17,0
+663,59,27,8.510017344316923,15,Movies,Basic,PayPal,0,9,4,0
+664,56,8,87.18158810795325,32,Sports,Premium,PayPal,0,0,12,1
+665,31,25,10.29912813771461,96,TV Shows,Standard,Credit Card,0,0,13,1
+666,48,17,193.41746508782566,68,Sports,Basic,Bank Transfer,0,4,29,0
+667,22,29,29.85352208745945,18,TV Shows,Premium,PayPal,0,3,27,0
+668,52,8,142.99922363447067,83,TV Shows,Standard,PayPal,0,0,29,0
+669,40,15,194.69138296395673,43,Sports,Premium,Bank Transfer,1,3,4,1
+670,46,27,166.0776150749815,35,Documentaries,Basic,PayPal,0,2,10,1
+671,60,7,141.36649814960973,78,TV Shows,Basic,Credit Card,0,1,25,1
+672,28,3,168.69487735264954,58,TV Shows,Standard,PayPal,0,8,3,1
+673,35,29,196.4507451858224,33,Sports,Premium,PayPal,0,0,15,0
+674,64,24,126.16217696443827,14,Documentaries,Standard,Bank Transfer,1,6,2,1
+675,29,3,114.04103733171867,34,TV Shows,Basic,Credit Card,0,3,25,0
+676,26,20,127.50643154033986,61,TV Shows,Basic,Bank Transfer,0,4,25,0
+677,27,15,108.87179791850322,4,Documentaries,Premium,PayPal,0,9,17,0
+678,61,25,128.84237565239516,88,TV Shows,Premium,PayPal,0,4,6,1
+679,34,30,92.71923055464906,59,Documentaries,Premium,Bank Transfer,0,0,26,1
+680,55,14,47.59642066224489,29,Documentaries,Standard,Bank Transfer,0,5,8,0
+681,24,7,28.44820916977675,83,Sports,Premium,Bank Transfer,0,8,3,0
+682,63,17,18.326482428790776,6,Movies,Premium,Credit Card,0,1,27,1
+683,30,20,56.346577831874015,97,Documentaries,Basic,PayPal,0,6,25,0
+684,57,9,13.994095045468098,49,Sports,Basic,Bank Transfer,0,5,18,0
+685,59,22,115.59830208428019,40,Movies,Premium,PayPal,1,4,22,0
+686,26,2,60.34654716958646,83,TV Shows,Premium,Credit Card,0,3,1,0
+687,67,24,165.78428757697128,65,Movies,Basic,Credit Card,0,3,29,0
+688,44,8,19.476970232735354,69,Documentaries,Premium,Credit Card,0,5,16,0
+689,19,11,49.13854139658976,27,Documentaries,Standard,Credit Card,0,3,7,1
+690,22,13,147.39799868257845,80,Documentaries,Standard,PayPal,0,4,3,0
+691,46,17,121.76761779478083,6,Documentaries,Standard,Credit Card,1,5,23,1
+692,54,8,17.57579789358767,13,Documentaries,Premium,Credit Card,0,4,4,0
+693,55,21,176.0616941466291,64,Sports,Basic,Bank Transfer,1,6,9,0
+694,36,18,176.066043751105,62,Documentaries,Premium,Credit Card,0,8,5,0
+695,25,30,69.4295607557759,99,Sports,Premium,Bank Transfer,0,9,19,0
+696,65,18,71.37913945316511,19,TV Shows,Basic,Credit Card,1,6,15,1
+697,62,31,197.8605298782839,76,Documentaries,Basic,Credit Card,0,6,8,0
+698,18,32,127.10435346066195,80,Documentaries,Basic,Bank Transfer,1,3,6,0
+699,39,11,108.60672151077152,43,Movies,Standard,Credit Card,0,0,18,0
+700,69,25,168.43967579262528,74,TV Shows,Premium,PayPal,1,7,19,1
+701,34,33,60.6316159796767,89,Documentaries,Basic,PayPal,0,3,24,0
+702,24,8,88.6906057122896,20,Documentaries,Premium,Credit Card,0,0,15,0
+703,42,11,57.216451720225166,95,TV Shows,Standard,PayPal,0,4,26,0
+704,62,22,158.88636508480263,68,Sports,Standard,Bank Transfer,0,7,7,1
+705,21,24,116.80312239886752,44,Documentaries,Basic,Credit Card,0,3,10,0
+706,53,17,133.47088867731375,23,Movies,Basic,Credit Card,0,7,6,0
+707,23,12,54.19991371868428,2,Documentaries,Premium,Bank Transfer,0,7,14,0
+708,48,32,47.94393376857644,22,Movies,Basic,Bank Transfer,0,2,17,0
+709,36,15,100.23305265167305,57,Movies,Premium,Bank Transfer,0,8,9,0
+710,61,16,148.82532107310124,72,Documentaries,Basic,Credit Card,0,2,19,0
+711,56,22,107.42175271643123,7,Documentaries,Premium,Bank Transfer,0,0,5,0
+712,44,28,11.365907121405378,78,Movies,Premium,Bank Transfer,0,1,23,0
+713,27,20,174.3675437324563,56,TV Shows,Premium,PayPal,0,5,7,0
+714,43,33,17.613944235450656,67,TV Shows,Premium,PayPal,0,9,19,0
+715,36,10,191.3857743255467,16,Documentaries,Standard,Credit Card,0,1,20,1
+716,56,32,9.902681864068182,83,Sports,Premium,PayPal,1,5,26,1
+717,20,33,140.4178389454882,51,TV Shows,Basic,PayPal,0,0,7,0
+718,62,2,21.03037742379742,82,Documentaries,Standard,Bank Transfer,0,0,24,1
+719,30,33,182.58193298985222,80,TV Shows,Standard,Bank Transfer,0,4,2,0
+720,67,33,95.56448106398084,72,Sports,Premium,PayPal,0,9,25,1
+721,45,13,31.817136089318,97,Documentaries,Standard,PayPal,0,8,23,0
+722,37,30,71.45906145902009,12,Sports,Premium,PayPal,0,7,16,0
+723,45,33,37.1408116926186,53,Documentaries,Basic,Credit Card,0,2,13,0
+724,25,13,38.263472753632556,75,Sports,Premium,Credit Card,0,2,8,1
+725,58,26,189.88112243343122,5,TV Shows,Standard,Credit Card,0,0,6,0
+726,56,22,91.82299189553369,27,TV Shows,Basic,PayPal,0,2,6,0
+727,18,2,158.8164414615451,12,Sports,Premium,PayPal,1,0,9,0
+728,20,26,129.72308442964797,17,Sports,Basic,Credit Card,0,7,4,0
+729,30,15,136.9031406559865,6,Sports,Basic,Credit Card,0,0,27,0
+730,45,34,30.68022050204751,97,Documentaries,Standard,PayPal,1,4,11,0
+731,66,11,50.665967129019705,5,TV Shows,Basic,Bank Transfer,0,8,5,0
+732,42,3,158.4163153551152,57,Documentaries,Standard,Credit Card,0,6,25,1
+733,50,6,194.29941026258268,28,TV Shows,Basic,PayPal,0,3,17,0
+734,55,9,56.221750306737086,78,Movies,Premium,PayPal,1,8,20,0
+735,23,6,57.955909126452774,69,Documentaries,Basic,Bank Transfer,1,8,7,0
+736,61,9,97.21494089812644,59,TV Shows,Premium,PayPal,0,1,27,0
+737,62,31,196.84886100681038,33,TV Shows,Premium,PayPal,0,9,15,1
+738,49,32,57.44699443616186,62,Documentaries,Basic,Credit Card,0,9,25,1
+739,62,12,84.35952237868146,50,Documentaries,Premium,Credit Card,0,5,15,0
+740,64,8,178.8386030465838,19,TV Shows,Basic,Bank Transfer,0,3,14,1
+741,38,8,5.569601361165591,86,Documentaries,Basic,Bank Transfer,1,7,13,1
+742,33,28,12.754363172771061,69,Sports,Premium,PayPal,0,6,11,1
+743,38,20,122.79397702888775,66,Documentaries,Premium,Credit Card,0,6,28,0
+744,28,7,181.93913211900517,94,Documentaries,Standard,Bank Transfer,0,9,13,0
+745,54,11,51.57704877837589,47,Documentaries,Premium,Bank Transfer,0,8,26,0
+746,53,20,96.58014606273825,39,TV Shows,Standard,Bank Transfer,0,4,22,0
+747,52,16,92.84073382327456,68,Sports,Premium,PayPal,0,5,28,0
+748,36,4,97.22941248862449,33,Movies,Basic,Credit Card,1,0,24,1
+749,37,6,126.39134066730031,13,Movies,Premium,Bank Transfer,1,5,29,0
+750,35,22,96.60003378318333,84,Sports,Basic,Credit Card,0,1,9,0
+751,64,26,92.25628755787928,54,Sports,Basic,Bank Transfer,1,5,10,0
+752,58,3,97.4862419840958,7,Sports,Basic,Bank Transfer,0,8,4,0
+753,66,14,120.21915104785309,79,TV Shows,Standard,Credit Card,0,7,17,0
+754,31,11,109.71646022851488,87,Movies,Premium,Credit Card,0,8,14,1
+755,32,18,171.55651954184833,14,Sports,Basic,Credit Card,0,9,24,0
+756,48,12,14.65188643126499,87,TV Shows,Basic,PayPal,1,7,18,1
+757,18,23,167.49682893723744,19,Movies,Standard,Bank Transfer,0,2,11,1
+758,20,12,169.5652994592862,54,Documentaries,Premium,PayPal,0,7,16,0
+759,33,13,60.55706419853736,93,TV Shows,Premium,Credit Card,0,5,1,1
+760,40,25,95.25613122809088,20,Movies,Standard,Bank Transfer,0,5,29,0
+761,28,19,90.51500526479992,29,TV Shows,Standard,PayPal,0,5,7,0
+762,29,8,47.609417699055406,24,Movies,Premium,Bank Transfer,0,2,28,0
+763,27,29,82.3753851818317,82,Movies,Standard,PayPal,0,9,10,0
+764,49,32,13.655615573316615,63,Documentaries,Premium,Credit Card,0,0,9,1
+765,33,18,59.17530419243821,74,TV Shows,Premium,PayPal,0,3,27,0
+766,25,6,164.25302421289004,57,Sports,Basic,Bank Transfer,0,9,28,0
+767,55,18,60.48964884376502,8,Documentaries,Basic,Bank Transfer,0,5,28,0
+768,29,19,164.55030040590827,90,Documentaries,Premium,Bank Transfer,0,9,25,0
+769,41,22,108.66189559786402,62,Movies,Premium,Bank Transfer,0,1,3,0
+770,45,32,176.57322208542618,29,Sports,Premium,Credit Card,0,6,22,1
+771,25,3,117.08201308156096,74,TV Shows,Premium,PayPal,0,6,23,0
+772,45,28,10.785303497624264,17,Sports,Premium,Credit Card,1,3,14,0
+773,53,10,136.7069404716824,66,Sports,Premium,Credit Card,0,3,26,0
+774,43,35,13.746445764595888,6,Sports,Standard,Credit Card,0,0,25,0
+775,25,29,92.86641870171113,58,Sports,Premium,Bank Transfer,1,1,15,0
+776,67,15,186.23820542225724,69,Sports,Standard,Bank Transfer,0,8,2,1
+777,45,33,37.21476817088078,28,Movies,Standard,Bank Transfer,0,9,24,0
+778,45,7,81.0251088236011,62,Movies,Premium,PayPal,0,7,14,0
+779,54,12,147.3227602254533,41,Documentaries,Premium,Bank Transfer,1,7,16,0
+780,58,30,177.0404184384953,69,Movies,Standard,PayPal,1,8,7,0
+781,53,21,135.83388592478903,82,Documentaries,Standard,Bank Transfer,0,6,4,0
+782,44,31,55.34378456727799,90,Documentaries,Premium,Bank Transfer,0,8,18,0
+783,34,24,136.54853131866216,84,TV Shows,Premium,Credit Card,0,9,24,0
+784,26,20,62.86189001529755,41,Sports,Standard,Credit Card,1,1,27,1
+785,50,4,145.09369981465338,49,Movies,Standard,Credit Card,1,5,5,0
+786,37,28,191.0364598790829,91,TV Shows,Standard,PayPal,0,2,6,0
+787,30,20,145.67172296572622,49,Movies,Basic,PayPal,0,5,27,0
+788,45,24,173.2616980679204,76,Documentaries,Standard,Bank Transfer,0,2,7,0
+789,65,32,5.410249419297266,71,Movies,Basic,PayPal,0,7,15,1
+790,46,34,144.9265643226609,3,Sports,Premium,Bank Transfer,0,3,26,0
+791,30,2,166.7695735887238,10,Documentaries,Premium,PayPal,0,9,1,0
+792,63,15,12.908953821212878,98,Documentaries,Standard,PayPal,0,5,24,0
+793,52,34,174.96155682120497,89,TV Shows,Premium,PayPal,0,8,4,1
+794,23,6,55.05537452045894,35,Sports,Premium,Credit Card,1,1,29,0
+795,35,12,134.73195988572076,80,Documentaries,Premium,PayPal,0,1,25,0
+796,68,3,161.0692014095643,2,Sports,Premium,Credit Card,0,6,1,0
+797,22,18,134.21958004657432,24,Movies,Basic,Credit Card,0,1,11,0
+798,64,21,22.99553445428516,74,Sports,Basic,PayPal,1,1,18,0
+799,42,15,121.28269617777183,38,Documentaries,Standard,Bank Transfer,0,3,14,0
+800,19,33,112.168813060818,22,TV Shows,Standard,Bank Transfer,0,8,22,1
+801,27,35,180.56264727448294,26,Documentaries,Standard,Bank Transfer,0,7,11,0
+802,47,26,83.8267472806208,43,Sports,Premium,PayPal,0,1,10,0
+803,67,8,67.61081393197477,55,Sports,Premium,Bank Transfer,0,7,27,1
+804,62,30,151.22089906511093,39,Documentaries,Basic,Credit Card,0,3,17,0
+805,22,23,85.47168858626235,91,Sports,Basic,Bank Transfer,1,1,4,1
+806,50,14,130.98875412598727,29,Movies,Standard,PayPal,0,9,24,0
+807,18,14,131.05776757429834,20,Documentaries,Basic,Bank Transfer,0,6,15,0
+808,35,2,178.16761755022299,91,TV Shows,Basic,Credit Card,0,5,26,0
+809,49,5,121.74501845222399,41,Documentaries,Basic,PayPal,0,9,16,0
+810,64,14,102.91995394258744,54,Movies,Basic,Bank Transfer,0,4,21,0
+811,66,25,32.07990864732082,20,Movies,Basic,PayPal,0,0,13,1
+812,28,20,27.568833302347546,19,Movies,Standard,PayPal,0,1,9,1
+813,38,2,35.09270523020048,84,Movies,Standard,PayPal,0,7,11,0
+814,43,6,38.51045385878343,99,Movies,Basic,Bank Transfer,0,0,11,0
+815,42,17,129.3860330694086,66,TV Shows,Standard,PayPal,0,2,6,0
+816,39,25,149.4913438035428,30,Sports,Premium,Bank Transfer,0,1,1,1
+817,44,28,108.34834697065165,53,Movies,Basic,Credit Card,1,4,22,0
+818,66,2,166.65845784637077,34,Movies,Premium,Bank Transfer,0,3,6,0
+819,30,35,198.29632921305847,22,Documentaries,Standard,Credit Card,0,6,13,0
+820,50,5,164.90246267827442,67,TV Shows,Standard,Bank Transfer,0,4,22,0
+821,51,1,140.50206286681203,6,TV Shows,Premium,PayPal,0,7,24,1
+822,58,12,108.83607639024359,79,Sports,Standard,Bank Transfer,0,3,22,0
+823,52,23,92.5263489765681,27,TV Shows,Basic,PayPal,1,5,5,0
+824,18,31,21.45651420618576,10,Documentaries,Premium,Credit Card,0,3,15,0
+825,38,11,82.87690593696473,73,Documentaries,Basic,Bank Transfer,0,1,27,0
+826,65,10,182.47625417251618,97,Sports,Premium,PayPal,0,0,18,0
+827,23,3,162.56441283177782,96,Documentaries,Standard,Credit Card,0,0,20,0
+828,45,14,47.130016177279,48,Movies,Premium,Credit Card,0,7,14,0
+829,34,16,95.9885180159571,70,Movies,Premium,Bank Transfer,0,3,15,0
+830,22,10,164.26102449891619,59,Documentaries,Basic,Credit Card,0,4,26,0
+831,48,29,18.13998818317689,59,Sports,Standard,PayPal,1,7,5,0
+832,22,10,80.54155420538856,2,TV Shows,Basic,Credit Card,0,6,26,1
+833,55,12,171.1090411904198,29,Sports,Standard,Credit Card,0,7,4,0
+834,20,30,83.76008351317412,68,TV Shows,Basic,PayPal,0,7,2,0
+835,40,1,20.134855722630967,65,Documentaries,Premium,Credit Card,0,5,7,0
+836,54,5,110.79420186378903,83,Documentaries,Basic,Credit Card,0,9,10,0
+837,54,20,173.0397865090676,26,Movies,Standard,Credit Card,0,1,16,0
+838,27,8,120.10568087586614,89,TV Shows,Standard,Credit Card,1,5,10,1
+839,27,12,49.1244261017752,10,Sports,Premium,PayPal,1,0,18,0
+840,36,1,79.92672592678936,53,Documentaries,Standard,Credit Card,1,0,17,0
+841,34,20,92.77405543047678,79,Sports,Basic,PayPal,0,2,21,1
+842,38,28,117.95693899500273,59,Movies,Premium,Credit Card,0,2,28,0
+843,31,12,153.07345002175956,22,TV Shows,Standard,Credit Card,0,4,13,1
+844,26,28,24.280355439923902,51,TV Shows,Standard,Credit Card,0,0,1,0
+845,63,15,178.48214643842545,48,Documentaries,Basic,Credit Card,0,9,1,1
+846,18,6,7.4003920881347405,21,TV Shows,Basic,PayPal,0,5,15,1
+847,68,20,77.16020526147977,22,Documentaries,Premium,PayPal,0,6,1,1
+848,62,14,10.346960444668241,98,Movies,Standard,PayPal,0,9,6,1
+849,30,2,81.62997394233179,30,TV Shows,Basic,Bank Transfer,0,2,25,1
+850,21,9,107.53345678029814,25,Documentaries,Premium,Credit Card,0,3,26,0
+851,18,20,104.77787038339478,28,Sports,Standard,Credit Card,0,9,13,0
+852,66,26,37.29752767051174,65,Documentaries,Standard,PayPal,0,9,27,0
+853,57,29,130.9193994686444,45,TV Shows,Premium,Bank Transfer,0,9,28,0
+854,49,1,13.731797848410302,68,Movies,Premium,Credit Card,0,9,1,1
+855,51,35,153.571829925821,7,TV Shows,Basic,PayPal,0,9,5,0
+856,45,6,189.59566462874153,49,TV Shows,Standard,Credit Card,0,2,9,1
+857,48,5,71.25492129446799,9,Documentaries,Standard,Credit Card,0,0,25,1
+858,25,33,105.86167943429473,36,Sports,Standard,PayPal,0,7,17,0
+859,56,14,78.8875042214688,83,TV Shows,Premium,PayPal,0,9,16,0
+860,43,12,6.308526109291691,1,Sports,Basic,Credit Card,0,9,8,0
+861,51,20,80.24552806454761,10,Documentaries,Standard,Credit Card,0,1,17,0
+862,20,24,159.38545055596256,36,Sports,Premium,PayPal,0,0,15,0
+863,67,34,121.21782422577895,73,Documentaries,Standard,Credit Card,1,7,24,1
+864,29,25,24.745683349955993,46,Movies,Basic,Credit Card,0,6,1,1
+865,18,29,170.1922004902881,32,Sports,Standard,PayPal,0,6,12,0
+866,61,31,108.56164225262235,32,Sports,Basic,Credit Card,0,3,5,0
+867,22,23,169.13605554021183,6,Movies,Basic,Credit Card,0,8,24,0
+868,47,20,118.14319616308073,48,Sports,Standard,Bank Transfer,0,5,6,0
+869,47,23,114.13924674339827,38,Movies,Standard,PayPal,0,1,25,0
+870,34,16,25.525541113417415,17,TV Shows,Basic,Bank Transfer,1,0,1,0
+871,65,8,37.63514796203245,74,Documentaries,Premium,Bank Transfer,0,0,25,0
+872,64,21,194.54492501683526,27,Movies,Basic,Bank Transfer,0,8,1,0
+873,40,1,49.5549156171803,54,Sports,Standard,Credit Card,0,3,10,1
+874,32,8,195.60316300812175,50,Movies,Standard,Credit Card,1,4,10,0
+875,54,29,108.72297777223136,35,Sports,Premium,Bank Transfer,0,2,3,0
+876,38,32,31.47886417746774,85,TV Shows,Basic,Bank Transfer,0,3,17,0
+877,31,5,24.363929536970126,25,Movies,Basic,Bank Transfer,0,7,19,0
+878,19,22,45.72849378761929,28,TV Shows,Basic,Credit Card,0,3,28,0
+879,28,34,185.49927935494048,15,Documentaries,Standard,Bank Transfer,0,8,11,0
+880,68,1,85.75929374400422,4,Sports,Basic,Bank Transfer,0,8,29,0
+881,56,26,82.1096822586183,93,Sports,Premium,PayPal,0,5,18,0
+882,55,10,66.07522090868393,73,TV Shows,Standard,PayPal,0,1,2,0
+883,51,30,33.67706086048473,27,Documentaries,Standard,Credit Card,1,9,9,0
+884,55,18,100.13098345251926,26,Movies,Basic,PayPal,0,6,24,0
+885,67,17,30.359317589672045,19,Movies,Premium,PayPal,1,8,17,0
+886,51,26,167.91864609455388,92,Sports,Standard,PayPal,0,5,28,1
+887,35,8,77.22741232368476,17,TV Shows,Standard,Credit Card,0,2,14,1
+888,47,12,78.08669571745028,43,TV Shows,Basic,PayPal,0,6,4,0
+889,32,27,97.4312535542154,41,Movies,Basic,Credit Card,0,4,29,0
+890,44,8,91.60490406732157,42,Documentaries,Premium,Bank Transfer,0,0,17,0
+891,68,25,198.9973047465677,50,Documentaries,Basic,PayPal,0,2,17,1
+892,51,4,111.34931863756898,84,Movies,Premium,Credit Card,0,4,12,0
+893,69,33,22.199332239024784,40,Movies,Standard,PayPal,0,6,28,0
+894,55,1,123.34108160750134,39,TV Shows,Premium,Bank Transfer,0,2,20,0
+895,50,19,34.55893710962659,23,Documentaries,Premium,Credit Card,0,5,18,0
+896,41,31,11.032840722611684,96,Movies,Premium,Credit Card,0,4,3,0
+897,32,16,194.2947199670634,52,Movies,Standard,Credit Card,0,0,11,0
+898,47,14,155.84008384923996,47,Sports,Basic,Bank Transfer,1,9,25,0
+899,59,5,196.12125352068455,63,Movies,Standard,Bank Transfer,0,5,18,1
+900,68,26,98.18629736433728,97,Movies,Basic,Bank Transfer,0,7,4,0
+901,34,28,108.79021857405034,69,Documentaries,Premium,Credit Card,0,0,17,0
+902,22,2,37.825706404230395,43,TV Shows,Premium,Bank Transfer,0,1,18,0
+903,46,6,53.14694820017919,48,Documentaries,Premium,PayPal,1,3,5,0
+904,21,9,168.5170969060515,34,TV Shows,Premium,Bank Transfer,0,1,14,0
+905,27,33,74.45620118793086,40,Sports,Premium,Credit Card,0,8,10,1
+906,34,25,166.2289198903017,75,Movies,Basic,PayPal,0,9,15,0
+907,27,13,143.2576762359712,61,Sports,Basic,Bank Transfer,0,7,1,1
+908,34,9,39.54833042801378,50,TV Shows,Premium,PayPal,1,7,16,0
+909,37,13,103.95204139334972,67,Documentaries,Standard,PayPal,0,3,11,0
+910,41,31,137.0905276961498,62,Documentaries,Standard,Credit Card,0,4,23,1
+911,22,11,50.832256886745895,58,Sports,Premium,PayPal,0,3,20,0
+912,51,4,166.984259551415,33,TV Shows,Basic,PayPal,0,8,6,0
+913,23,34,111.24139322131143,75,Sports,Standard,Credit Card,0,1,24,0
+914,19,4,37.222199836307624,16,Sports,Standard,Credit Card,0,7,29,0
+915,30,19,118.68196310209747,82,Movies,Standard,Credit Card,0,1,22,0
+916,60,6,199.94419181040323,94,Sports,Premium,PayPal,1,0,16,0
+917,60,34,34.351690874365644,48,Movies,Standard,PayPal,0,9,2,0
+918,65,18,164.26760137330797,10,Movies,Standard,PayPal,0,2,1,0
+919,28,13,45.425255621573804,82,Documentaries,Standard,Credit Card,0,8,24,0
+920,68,23,157.56572424471702,38,Movies,Standard,Bank Transfer,1,2,24,1
+921,64,19,148.24269500867558,19,Movies,Basic,PayPal,0,8,9,1
+922,40,11,63.595430192084315,36,Documentaries,Premium,Bank Transfer,0,6,22,0
+923,33,1,68.53550792506772,59,Sports,Premium,Credit Card,0,9,12,1
+924,48,24,159.54167143276925,63,TV Shows,Basic,PayPal,0,0,17,0
+925,28,7,94.98187481802597,77,TV Shows,Basic,Bank Transfer,0,9,25,1
+926,33,25,147.50951559880272,46,TV Shows,Premium,PayPal,0,4,28,0
+927,25,21,33.85690873633778,3,Sports,Standard,PayPal,0,8,29,0
+928,21,15,171.24876747080293,74,Movies,Standard,PayPal,0,2,15,1
+929,57,1,143.62251975305222,65,TV Shows,Premium,Bank Transfer,0,8,19,0
+930,21,12,181.8538477227926,91,Sports,Standard,Credit Card,1,4,27,0
+931,42,7,30.81261391181963,8,Movies,Basic,PayPal,1,8,22,1
+932,20,15,120.63782757031655,51,Documentaries,Standard,Credit Card,0,9,10,1
+933,49,21,121.8285140828634,81,TV Shows,Standard,Credit Card,0,5,29,1
+934,20,19,73.92484440662258,73,Movies,Standard,Bank Transfer,0,8,26,0
+935,44,29,94.40095279100527,6,TV Shows,Premium,Bank Transfer,0,6,27,0
+936,46,25,12.406404841521427,89,TV Shows,Basic,Credit Card,0,6,12,0
+937,49,33,150.44270753226735,39,TV Shows,Standard,PayPal,0,7,14,0
+938,67,32,112.11788348361894,60,Movies,Premium,Bank Transfer,0,6,9,0
+939,68,35,16.25950511448889,28,Sports,Standard,PayPal,0,8,27,0
+940,36,26,137.74739912729467,97,Movies,Basic,PayPal,0,8,13,0
+941,38,11,96.02250506008164,54,TV Shows,Standard,PayPal,0,5,3,0
+942,22,35,11.719945587875,37,Movies,Basic,Credit Card,0,6,21,1
+943,35,8,194.0735067353786,9,Documentaries,Standard,PayPal,0,1,29,1
+944,45,14,190.07686790244088,82,Sports,Basic,Credit Card,0,8,14,1
+945,59,10,105.01597114870353,56,Movies,Standard,Credit Card,0,0,21,1
+946,39,2,23.26612203765249,59,Documentaries,Basic,PayPal,0,0,10,0
+947,38,9,152.1511382117254,85,Sports,Standard,PayPal,0,2,16,1
+948,23,3,100.92656452061716,2,Documentaries,Standard,PayPal,1,5,7,0
+949,18,21,63.97725826642908,61,Sports,Premium,PayPal,0,4,4,1
+950,22,26,100.82654461806857,58,Movies,Premium,Credit Card,0,1,27,1
+951,58,8,106.87660835406557,60,Documentaries,Basic,PayPal,0,8,20,1
+952,29,2,114.72878130935614,40,TV Shows,Standard,PayPal,1,9,23,0
+953,43,6,91.03862416278868,36,Documentaries,Basic,Credit Card,1,3,25,0
+954,63,28,123.12228411211605,37,Sports,Premium,Bank Transfer,0,3,11,0
+955,51,29,184.1532685682436,79,Movies,Basic,Bank Transfer,1,4,16,0
+956,66,26,75.64227698422528,92,Sports,Basic,Credit Card,0,7,20,0
+957,31,25,146.51471032789007,18,Documentaries,Premium,Bank Transfer,0,9,4,0
+958,43,12,179.41824858072528,98,Documentaries,Standard,Credit Card,0,3,22,0
+959,62,5,93.9159587731877,63,TV Shows,Basic,PayPal,0,4,22,0
+960,44,34,91.4738880944713,22,Movies,Premium,PayPal,1,3,23,0
+961,26,15,122.41281214418201,11,Movies,Standard,Bank Transfer,0,5,17,0
+962,43,15,120.32431808738518,58,Documentaries,Premium,PayPal,1,2,13,0
+963,64,23,162.28492175362402,57,Movies,Basic,Bank Transfer,0,7,11,0
+964,39,6,97.91425983676707,77,TV Shows,Standard,Bank Transfer,0,5,3,0
+965,64,21,199.24397517969103,4,Sports,Standard,PayPal,0,9,9,1
+966,47,23,16.59695592911975,86,Movies,Premium,PayPal,0,4,6,0
+967,60,16,5.617730473236839,7,Documentaries,Premium,Bank Transfer,0,1,22,0
+968,65,15,129.83867075412664,61,Sports,Premium,PayPal,0,9,21,0
+969,34,25,63.194807910565956,54,Sports,Standard,Credit Card,1,9,11,0
+970,43,11,51.874565796399345,88,TV Shows,Standard,PayPal,0,6,16,0
+971,53,15,65.82032060083469,68,Documentaries,Basic,PayPal,0,1,19,0
+972,18,4,54.92927519546609,92,Movies,Standard,Credit Card,0,0,27,0
+973,25,21,11.00405968378733,79,Documentaries,Basic,PayPal,0,6,5,0
+974,66,13,194.4489432661648,1,Sports,Premium,PayPal,1,4,14,0
+975,52,22,48.04537024829244,55,Documentaries,Premium,Bank Transfer,0,0,17,0
+976,69,19,148.13580370491474,3,Movies,Standard,PayPal,0,3,3,0
+977,32,34,153.70629696536417,78,Movies,Premium,PayPal,0,3,4,0
+978,64,14,186.2051926114097,38,TV Shows,Premium,Credit Card,0,9,16,0
+979,39,4,10.957144133209095,1,Movies,Standard,Bank Transfer,0,6,16,0
+980,31,27,175.0494259971665,38,Movies,Basic,Bank Transfer,0,8,21,0
+981,43,29,107.80910526376104,85,Documentaries,Standard,Bank Transfer,0,1,26,1
+982,45,28,128.34610144333644,29,Documentaries,Basic,PayPal,0,0,25,0
+983,40,35,130.67170403860155,5,Sports,Standard,Bank Transfer,0,1,4,0
+984,31,8,164.86057197202186,74,TV Shows,Standard,Credit Card,0,6,19,1
+985,41,16,70.01442782102654,92,Documentaries,Premium,Bank Transfer,0,9,26,0
+986,19,30,147.94498202269872,21,Movies,Standard,Credit Card,0,5,17,0
+987,62,18,108.07273139582844,71,Sports,Standard,Bank Transfer,0,3,13,1
+988,43,2,159.7118327895428,67,Documentaries,Basic,Bank Transfer,0,0,26,1
+989,31,13,198.156476390176,47,TV Shows,Premium,Credit Card,1,0,22,0
+990,68,4,44.12694839373344,84,TV Shows,Basic,Bank Transfer,0,4,23,1
+991,24,26,198.9564851041996,83,Sports,Basic,Bank Transfer,0,0,26,1
+992,20,25,22.51337008514093,35,Sports,Premium,Bank Transfer,1,6,24,0
+993,64,30,5.451921841438704,68,Sports,Premium,PayPal,0,0,28,1
+994,40,11,13.611577554677096,69,Sports,Premium,Credit Card,0,0,1,0
+995,63,7,71.64756892366853,1,Sports,Standard,Bank Transfer,0,1,12,0
+996,60,31,128.41673448229466,68,Movies,Premium,Credit Card,0,9,4,1
+997,64,10,18.460760473130676,12,Movies,Premium,Credit Card,0,2,11,1
+998,62,13,6.104833833265618,60,Documentaries,Premium,Credit Card,0,0,5,0
+999,35,31,187.73275054946498,27,TV Shows,Basic,Bank Transfer,1,8,2,0
+1000,55,7,165.27569400828628,56,Movies,Basic,Bank Transfer,0,9,17,0
